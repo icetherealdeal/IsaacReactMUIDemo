@@ -178,7 +178,7 @@ export default function MusicPlayerSlider() {
               '& .MuiSlider-thumb': {
                 width: 24,
                 height: 24,
-                backgroundColor: 'orange',
+                backgroundColor: '#ffa500',
                 '&::before': {
                   boxShadow: '0 4px 8px rgba(0,0,0,0.4)',
                 },

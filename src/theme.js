@@ -21,7 +21,7 @@ const theme = createTheme({
       main: red.A400,
     },
     background: {
-        default: 'orange', // Gradient background does not work
+        default: '#ffa500', // Gradient background does not work
     },
   },
   overrides: {
